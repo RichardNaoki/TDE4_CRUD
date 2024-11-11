@@ -62,9 +62,9 @@ const styles = StyleSheet.create({
     paddingLeft: 8,
   },
   spacing: {
-    height: 10, // Espaço entre os botões
+    height: 10,
   },
   personItem: {
-    marginTop: 10, // Espaço entre os itens da lista
+    marginTop: 10, 
   },
 });
